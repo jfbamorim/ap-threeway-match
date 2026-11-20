@@ -7,7 +7,7 @@ const { createController } = require('./controller');
 
 function createApp() {
   const app = express();
-  app.set('trust proxy', true);
+  app.set('trust proxy', 1);
   app.use(express.json());
 
   const repository = createRepository();
