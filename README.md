@@ -20,8 +20,8 @@ O servidor arranca na porta `3000` (ou na definida em `PORT`).
 | Página de configuração (`config_url`) | `GET /configuracao` | feito |
 | Lista de parâmetros (`json_params_url`) | `GET /json-params` | feito |
 | Deploy (`user_url`) | `GET /deploy?activityID=...` | feito |
-| Lista de analytics (`analytics_list_url`) | `GET /lista-analytics` | por fazer |
-| Analytics (`analytics_url`) | `POST /analytics` | por fazer |
+| Lista de analytics (`analytics_list_url`) | `GET /lista-analytics` | feito |
+| Analytics (`analytics_url`) | `POST /analytics` | feito |
 | Provide activity | `POST /atividade/{activityID}` | fora desta fase |
 
 ### Deploy
