@@ -1,0 +1,8 @@
+{
+  "name": "Three-Way Match",
+  "config_url": "https://ap-threeway-match-5c740a0917b6.herokuapp.com/configuracao",
+  "json_params_url": "https://ap-threeway-match-5c740a0917b6.herokuapp.com/json-params",
+  "user_url": "https://ap-threeway-match-5c740a0917b6.herokuapp.com/deploy",
+  "analytics_url": "https://ap-threeway-match-5c740a0917b6.herokuapp.com/analytics",
+  "analytics_list_url": "https://ap-threeway-match-5c740a0917b6.herokuapp.com/lista-analytics"
+}
